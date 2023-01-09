@@ -4,6 +4,8 @@ a city geometry consisting of four buildings in a rectangular, wall-bounded doma
 as is shown in the figure below (the color represents the water height). \
 ![image](https://github.com/joezhang13/2DSWE_DG/blob/master/initialCondition.jpg)
 
+The report of this project can be found at: https://drive.google.com/file/d/1udYY26hQFcMT41s_8-lw93T9wfSl9WaK/view?usp=sharing
+
 ## Contact
 Zhou Zhang\
 Email: joezhang@umich.edu
